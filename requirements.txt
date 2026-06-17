@@ -1,0 +1,6 @@
+aiogram>=3.4,<4
+aiohttp>=3.9
+sqlalchemy[asyncio]>=2.0
+aiosqlite>=0.19
+apscheduler>=3.10
+python-dotenv>=1.0
